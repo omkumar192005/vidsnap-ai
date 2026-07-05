@@ -1,0 +1,1 @@
+ELEVENLABS_API_KEY = "sk_18cc8f9ca6daaafc5abe52ff2dd6152ef3fb04c472b6a95d"
